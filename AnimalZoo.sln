@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimalZoo", "AnimalZoo\AnimalZoo.csproj", "{D3BCD780-254E-40A2-A1E0-8404E43FF10B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalZooTests3", "AnimalZooTests3\AnimalZooTests3.csproj", "{25409F47-E05D-4557-B7E7-6A804E8B54C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalZooTests", "AnimalZooTests3\AnimalZooTests.csproj", "{25409F47-E05D-4557-B7E7-6A804E8B54C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

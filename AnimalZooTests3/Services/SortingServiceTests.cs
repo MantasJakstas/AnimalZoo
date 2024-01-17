@@ -42,7 +42,6 @@ namespace AnimalZoo.Services.Tests
             var animals = new List<Animal> { new Animal { Food = "Herbivore" } };
             _animalsRepositoryMock.Setup(repo => repo.GetAllAnimals()).Returns(animals);
 
-            // Act & Assert
             Assert.ThrowsException<Exception>(() => _sortingService.SortAnimals());
         }
     }
