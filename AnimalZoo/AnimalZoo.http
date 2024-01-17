@@ -1,0 +1,10 @@
+@AnimalZoo_HostAddress = http://localhost:5132
+
+GET {{AnimalZoo_HostAddress}}/api/Animals/
+Accept: application/json
+
+###
+GET {{AnimalZoo_HostAddress}}/api/Enclosures/
+Accept: application/json
+
+###

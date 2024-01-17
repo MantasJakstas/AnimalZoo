@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimalZoo", "AnimalZoo\AnimalZoo.csproj", "{D3BCD780-254E-40A2-A1E0-8404E43FF10B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalZooTests3", "AnimalZooTests3\AnimalZooTests3.csproj", "{25409F47-E05D-4557-B7E7-6A804E8B54C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3BCD780-254E-40A2-A1E0-8404E43FF10B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BCD780-254E-40A2-A1E0-8404E43FF10B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BCD780-254E-40A2-A1E0-8404E43FF10B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BCD780-254E-40A2-A1E0-8404E43FF10B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25409F47-E05D-4557-B7E7-6A804E8B54C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25409F47-E05D-4557-B7E7-6A804E8B54C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25409F47-E05D-4557-B7E7-6A804E8B54C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25409F47-E05D-4557-B7E7-6A804E8B54C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B4A9E61-108A-4654-9F19-7CD00B34E2CC}
+	EndGlobalSection
+EndGlobal
